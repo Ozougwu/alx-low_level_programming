@@ -1,12 +1,12 @@
 #include <stdio.h>
-#include <stdio.h>
+#include <unistd.h>
 
 /**
- * main - print quote
+ * main - Entry point
  *
- * Description: prints Dora's quote
+ * Description: "and that piece of art is useful" - Dora Korpar, 2015-10-19'
  *
- * Return: Always 1 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
